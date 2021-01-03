@@ -1,2 +1,2 @@
 # modbus4j
-modbus4j demo
+使用Modbus4J进行RTU模式串口通信
